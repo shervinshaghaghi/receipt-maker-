@@ -1,2 +1,2 @@
-# receipt-maker-
+# receipt-maker
 Little Lemon receipt maker
